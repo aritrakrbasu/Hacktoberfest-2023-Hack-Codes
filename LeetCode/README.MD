@@ -1,3 +1,3 @@
 # LEETCODE    
 
-**Here we will have soultions of questions that are provided by [LEETCODE](https://leetcode.com/).**
+**Here we will have solutions of questions that are provided by [LEETCODE](https://leetcode.com/).**
