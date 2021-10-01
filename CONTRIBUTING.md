@@ -5,7 +5,8 @@
 # ADDING NEW QUESTION AND SOLUTION :
 
 - Add a question that is already not present .
-- Your folder name should be "name_of_the_problem" .
+- Your folder should be inside the question providers folder (like HackerRank ,CodeChef) if the folder is not present then do add your question folder to the `others` folder .  
+- Your folder name should be **name_of_the_problem** .
 - Your folder must contain *`Question.md`* and *`Solution.extension`*
 - `Question.md` will contain the question itself with `Sample test cases` , `Sample Input/Output` and `Constraints`.
 - `solution.extension` is the file that will have your solution and `.extension` is the extension of your solution language .
