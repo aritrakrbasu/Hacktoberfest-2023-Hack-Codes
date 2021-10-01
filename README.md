@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/contributors/aritrakrbasu/Hack-Codes">  <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hack-Codes">           <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hack-Codes">   <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hack-Codes">
 
 <br><br>
-  <img src="https://hacktoberfest.digitalocean.com/twitter-card.png">
+  <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
   
 Do you know , that we belong to an era where your code can build me or destry me ? 😨 So , we thought why not record what we do and presenting to you **Hack Code** , A repository that will hold all the deadly codes that can change the world .
 
