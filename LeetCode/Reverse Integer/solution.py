@@ -1,4 +1,6 @@
-# https://leetcode.com/problems/reverse-integer/
+# Author : thepmsquare
+# Question Link : https://leetcode.com/problems/reverse-integer/
+
 class Solution:
     def reverse(self, x: int) -> int:
         answer = list()
