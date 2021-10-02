@@ -7,7 +7,7 @@
 #include<vector>
 using namespace std;
 
-#define ll long long //using long long as the sum can go beyong the range of int
+#define ll long long //using long long as the sum can go beyond the range of int
 
 void solve()
 { 
