@@ -2,15 +2,13 @@
 
 Question Link : https://codeforces.com/contest/1472/problem/C
 
-Polycarp found under the Christmas tree an array a of n elements and instructions 
+Polycarp found under the Christmas tree an array a of n elements and instructions for playing with it.
 
-for playing with it.
+At first, choose index i  (1≤i≤n) --- starting position in the array. Put the chip at the index i (on the value ai).
 
-At first, choose index i  (1≤i≤n) --- starting position in the array. Put the chip at the 
-
-index i (on the value ai).
 
 While i≤n , add ai to your score and move the chip ai positions to the right (i.e. replace i with i+ai). If i>n , then Polycarp ends the game.
+
 
 For example, if n=5 and a=[7,3,1,2,3], then the following game options are possible:
 
