@@ -13,8 +13,8 @@
   <img src="https://cdn140.picsart.com/236248854021212.png?type=webp&to=min&r=640" width="32%">
   <img src="https://cdn140.picsart.com/236248854021212.png?type=webp&to=min&r=640" width="32%">
 </p>
-<a href="https://github.com/aritrakrbasu/bootstrap-component-library/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aritrakrbasu/hack-codes" width="100%" />
+<a href="https://github.com/aritrakrbasu/Hack-Codes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aritrakrbasu/Hack-Codes" />
 </a>
 
 <br><br>  
