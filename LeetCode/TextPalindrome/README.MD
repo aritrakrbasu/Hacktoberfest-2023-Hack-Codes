@@ -1,0 +1,2 @@
+To check if a string is palindrome or not we can simply reverse it and compare it with the original string. After reversing if it remains equal then the given string is a palindrome.
+In this problem we have to ignore all the characters except alphabets and numbers. So for that we can filter the given string and save the filtered string in a new variable by removing all unwanted characters.
