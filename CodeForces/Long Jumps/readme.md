@@ -1,5 +1,7 @@
 ## Question
 
+Question Link : https://codeforces.com/contest/1472/problem/C
+
 Polycarp found under the Christmas tree an array a of n elements and instructions 
 
 for playing with it.
