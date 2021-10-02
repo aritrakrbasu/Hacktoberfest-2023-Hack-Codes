@@ -1,7 +1,7 @@
 # Hack Codes <img align = "right" src ="https://img.shields.io/github/watchers/aritrakrbasu/Hack-Codes?style=social"> <img align = "right" src ="https://img.shields.io/github/stars/aritrakrbasu/Hack-Codes?style=social">    <img align = "right" src ="https://img.shields.io/github/forks/aritrakrbasu/Hack-Codes?style=social">
 
 <img src="https://img.shields.io/github/contributors/aritrakrbasu/Hack-Codes">  <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hack-Codes">           <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hack-Codes">   <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hack-Codes">
-
+ 
 <br><br>
 <p align="center">
   <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="400">
