@@ -8,7 +8,9 @@ equal to 1, otherwise print NO.
 ## Input
 
 
-    First line of input will contain T, the number of test cases. Then the test cases follow.Each test case contains a single line, two positive integers a,b
+    First line of input will contain T, the number of test cases. Then the test cases follow.
+    
+    Each test case contains a single line, two positive integers a,b
 
 ## Output
 
