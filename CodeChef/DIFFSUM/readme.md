@@ -17,6 +17,7 @@ Output a single line containing the difference of 2 numbers (N1−N2) if the fir
 **Constraints:**
  
  > - −1000≤N1≤1000
+ 
  > - −1000≤N2≤1000
  
  
