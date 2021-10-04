@@ -1,20 +1,7 @@
-## Question
-Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well.
- 
+## Remove Duplicates From Sorted List
+<b>Question :</b><br>
+Given the head of a sorted linked list, delete all duplicates such that each element appears only once.<br>Return the linked list sorted as well.<br><br><b>Example 1:</b><br><img src="https://assets.leetcode.com/uploads/2021/01/04/list1.jpg" width="50%"/><br><br><b>Input:</b> head = `[1,1,2]`<br><b>Output:</b> `[1,2]`
+<br>
 
-## Example 1:
-
-Input: head = [1,1,2]
-Output: [1,2]
-
-## Example 2:
-
-Input: head = [1,1,2,3,3]
-Output: [1,2,3]
-
-
-## Constraints:
-
-The number of nodes in the list is in the range [0, 300].
--100 <= Node.val <= 100
-The list is guaranteed to be sorted in ascending order.
+<b>Solution Link : </b><br>
+[Click Here](https://github.com/aritrakrbasu/Hack-Codes/blob/main/LeetCode/Remove%20duplicates%20from%20sorted%20list/Solution.cpp) 
