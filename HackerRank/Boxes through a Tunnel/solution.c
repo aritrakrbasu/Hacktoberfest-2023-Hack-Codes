@@ -11,14 +11,16 @@ struct box {
 
 typedef struct box box;
 
-int get_volume(box b) {
+int get_volume(box b) 
+{
     /**
     * Return the volume of the box
     */
     return b.length * b.width * b.height;
 }
 
-int is_lower_than_max_height(box b) {
+int is_lower_than_max_height(box b) 
+{
     /**
     * Return 1 if the box's height is lower than MAX_HEIGHT and 0 otherwise
     */
@@ -33,8 +35,10 @@ int main()
 	for (int i = 0; i < n; i++) {
 		scanf("%d%d%d", &boxes[i].length, &boxes[i].width, &boxes[i].height);
 	}
-	for (int i = 0; i < n; i++) {
-		if (is_lower_than_max_height(boxes[i])) {
+	for (int i = 0; i < n; i++) 
+	{
+		if (is_lower_than_max_height(boxes[i])) 
+		{
 			printf("%d\n", get_volume(boxes[i]));
 		}
 	}
