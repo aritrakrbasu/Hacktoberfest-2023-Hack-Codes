@@ -1,10 +1,10 @@
-# 
-HacktoberfestHack Codes <img align = "right" src ="https://img.shields.io/github/watchers/aritrakrbasu/
-Hacktoberfest-Hack-Codes?style=social"> <img align = "right" src ="https://img.shields.io/github/stars/aritrakrbasu/
-Hacktoberfest-Hack-Codes?style=social">    <img align = "right" src ="https://img.shields.io/github/forks/aritrakrbasu/
-Hacktoberfest-Hack-Codes?style=social">
+# Hacktoberfest Hack Codes 
 
-<img src="https://img.shields.io/github/contributors/aritrakrbasu/Hacktoberfest-Hack-Codes">  <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hacktoberfest-Hack-Codes">           <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hacktoberfest-Hack-Codes">   <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hacktoberfest-Hack-Codes">
+<img align = "right" src ="https://img.shields.io/github/watchers/aritrakrbasu/Hacktoberfest-Hack-Codes?style=social"> 
+<img align = "right" src="https://img.shields.io/github/stars/aritrakrbasu/Hacktoberfest-Hack-Codes?style=social">    
+<img align = "right" src ="https://img.shields.io/github/forks/aritrakrbasu/Hacktoberfest-Hack-Codes?style=social">
+
+<img src="https://img.shields.io/github/contributors/aritrakrbasu/Hacktoberfest-Hack-Codes">  <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hacktoberfest-Hack-Codes">  <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hacktoberfest-Hack-Codes">   <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hacktoberfest-Hack-Codes">
  
 <br><br>
 <p align="center">
