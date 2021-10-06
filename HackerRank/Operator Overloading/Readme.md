@@ -5,7 +5,7 @@ class Complex
 public:
     int a,b;
 };
-Operators are overloaded by means of operator functions, which are regular functions with special names. Their name begins with the operator keyword followed by the operator sign that is overloaded. The syntax is:
+Operators are overloaded by means of operator functions , which are regular functions with special names. Their name begins with the operator keyword followed by the operator sign that is overloaded. The syntax is:
 
 type operator sign (parameters) { /*... body ...*/ }
 You need to overload operators + and << for the Complex class.
