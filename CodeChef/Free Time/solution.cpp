@@ -49,6 +49,6 @@ int main() {
       
     cout<<tym<<"\n";
     
-	// This solution is contributed by shaheen_senpai (codechef ID)
+	//This solution is contributed by shaheen_senpai (codechef ID)
 	return 0;
 }
