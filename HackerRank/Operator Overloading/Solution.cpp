@@ -8,7 +8,7 @@ public:
     int a,b;
     void input(string s)
     {
-        int v1=0;
+        int v1 =0;
         int i=0;
         while(s[i]!='+')
         {
