@@ -8,36 +8,42 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
-        ListNode head;
-        ListNode* tail = &head;
-        head.next = NULL;
-        while (1){
-        if (l1 == NULL){
-            tail->next = l2;
-            break;
+        ListNode* l3 = new ListNode(0);
+        
+        ListNode* p1 = l1;
+        ListNode* p2 = l2;
+        ListNode* p3 = l3;
+        
+        while(p1!=NULL & p2!=NULL)
+        {
+            if(p1->val < p2->val)
+            {
+                p3->next = p1;
+                p1 = p1->next;
+            }
+            else
+            {
+                p3->next = p2;
+                p2=p2->next;
+            }
+            p3=p3->next;
         }
-        else if (l2 == NULL){
-            tail->next = l1;
-            break;
+        while(p1!=NULL)
+        {
+            p3->next = p1;
+            p1=p1->next;
+            p3=p3->next;
         }
-        if (l1->val <= l2->val)
-            MoveNode(&(tail->next), &l1);
-        else
-            MoveNode(&(tail->next), &l2);
- 
-        tail = tail->next;
+        while(p2!=NULL)
+        {
+            p3->next = p2;
+            p2=p2->next;
+            p3=p3->next;
+        }
+        return l3->next;
     }
-        return head.next;
-    }
-    
-    void MoveNode(ListNode** destRef, ListNode** sourceRef){
-    ListNode* newNode = *sourceRef;
-    assert(newNode != NULL);
-     *sourceRef = newNode->next;
-     newNode->next = *destRef;
-     *destRef = newNode;
-}
 };
