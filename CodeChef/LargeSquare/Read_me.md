@@ -1,4 +1,6 @@
 //  CodeChef Starters 9 Question
+//  Author:  Harshvardhan Singh
+//  Question Link: https://www.codechef.com/START9C/problems/XLSQUARE
 
 Question:
 You are given N identical squares, each with side length A. All the squares have their sides parallel to the x−axis and y−axis. That is, the squares are not tilted. You have to take several (possibly, zero or all) squares and rearrange them to obtain a mega square. The mega square can't have any gap in the enclosed region or have overlapping squares. Also, you cannot rotate any square.
