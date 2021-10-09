@@ -7,7 +7,7 @@ There is only one hospital where vaccination is done and it is only possible to 
 The first line of the input contains a single integer T denoting the number of test cases. The description of T test cases follows.
 The first line of each test case contains two space-separated integers N and D.
 The second line contains N space-separated integers a1,a2,…,aN.
-
+ 
 ## Output
 For each test case, print a single line containing one integer ― the smallest required number of days.
 
