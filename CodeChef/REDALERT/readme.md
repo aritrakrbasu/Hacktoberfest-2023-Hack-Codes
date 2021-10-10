@@ -58,4 +58,4 @@ The water levels of the city on the four days are [1,3,1,3]. The water level is 
 ## Example case 4: 
 There will be a red alert in the city on the 3-rd day.
 
-## [Solution Link](/solution.cpp)
+## [Solution Link](/CodeChef/REDALERT/solution.cpp)
