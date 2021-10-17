@@ -1,6 +1,10 @@
-# Hack Codes <img align = "right" src ="https://img.shields.io/github/watchers/aritrakrbasu/Hack-Codes?style=social"> <img align = "right" src ="https://img.shields.io/github/stars/aritrakrbasu/Hack-Codes?style=social">    <img align = "right" src ="https://img.shields.io/github/forks/aritrakrbasu/Hack-Codes?style=social">
+# Hacktoberfest Hack Codes 
 
-<img src="https://img.shields.io/github/contributors/aritrakrbasu/Hack-Codes">  <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hack-Codes">           <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hack-Codes">   <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hack-Codes">
+<img align = "right" src ="https://img.shields.io/github/watchers/aritrakrbasu/Hacktoberfest-Hack-Codes?style=social"> 
+<img align = "right" src="https://img.shields.io/github/stars/aritrakrbasu/Hacktoberfest-Hack-Codes?style=social">    
+<img align = "right" src ="https://img.shields.io/github/forks/aritrakrbasu/Hacktoberfest-Hack-Codes?style=social">
+
+<img src="https://img.shields.io/github/contributors/aritrakrbasu/Hacktoberfest-Hack-Codes">  <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hacktoberfest-Hack-Codes">  <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hacktoberfest-Hack-Codes">   <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hacktoberfest-Hack-Codes">
  
 <br><br>
 <p align="center">
@@ -13,8 +17,8 @@
   <img src="https://cdn140.picsart.com/236248854021212.png?type=webp&to=min&r=640" width="32%">
   <img src="https://cdn140.picsart.com/236248854021212.png?type=webp&to=min&r=640" width="32%">
 </p>
-<a href="https://github.com/aritrakrbasu/Hack-Codes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aritrakrbasu/Hack-Codes" />
+<a href="https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aritrakrbasu/Hacktoberfest-Hack-Codes" />
 </a>
 
 <br><br>  
@@ -23,13 +27,13 @@ Do you know , that we belong to an era where your code can build me or destry me
 
 Codes can be written in different languages like **C , C++ , Java , PHP , Python , Ruby , Javascript** or whatever your are familiar with .
 
-We prefer well documented code comment lines will be appreciated  and your Pull Requests should comply with these in-order to get merged. So, do read the [CONTRIBUTING.md](https://github.com/aritrakrbasu/Hack-Codes/blob/main/CONTRIBUTING.md).
+We prefer well documented code comment lines will be appreciated  and your Pull Requests should comply with these in-order to get merged. So, do read the [CONTRIBUTING.md](https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes/blob/main/CONTRIBUTING.md).
 
-Also read, [CODE OF CONDUCT](https://github.com/aritrakrbasu/Hack-Codes/blob/main/CODE_OF_CONDUCT.md).
+Also read, [CODE OF CONDUCT](https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes/blob/main/CODE_OF_CONDUCT.md).
 
 ## Fork this repository and clone on your local machine
 ```
-git clone https://github.com/aritrakrbasu/Hack-Codes.git
+git clone https://github.com/aritrakrbasu/Hacktoberfest-Hack-Codes.git
 ```
 
 ## Create a branch  
