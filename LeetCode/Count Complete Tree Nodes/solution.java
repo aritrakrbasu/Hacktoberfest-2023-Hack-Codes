@@ -27,7 +27,7 @@ class Solution {
             return;
         }
         inorder(root.left);
-count++;
+        count++;
         inorder(root.right);
     }
 }
