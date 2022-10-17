@@ -8,7 +8,7 @@
  
 <br><br>
 <p align="center">
-  <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="400">
+    <img src="https://i0.wp.com/fossnaija.com/wp-content/uploads/2022/09/fossnaija.com-hacktoberfest-2022.png?ssl=1" width="1000">
 </p>
 
 # Proud Contributors
