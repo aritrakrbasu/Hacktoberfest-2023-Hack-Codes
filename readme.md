@@ -4,7 +4,7 @@
 <img align = "right" src="https://img.shields.io/github/stars/aritrakrbasu/Hacktoberfest-2022-Hack-Codes?style=social">    
 <img align = "right" src ="https://img.shields.io/github/forks/aritrakrbasu/Hacktoberfest-2022-Hack-Codes?style=social">
 
-<img src="https://img.shields.io/github/contributors/aritrakrbasu/Hacktoberfest-2022-Hack-Codes"> <img src="https://img.shields.io/tokei/lines/github/aritrakrbasu/Hacktoberfest-2022-Hack-Codes"> <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hacktoberfest-2022-Hack-Codes"> <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hacktoberfest-2022-Hack-Codes">
+<img src="https://img.shields.io/github/contributors/aritrakrbasu/Hacktoberfest-2022-Hack-Codes"> <img src="https://img.shields.io/github/last-commit/aritrakrbasu/Hacktoberfest-2022-Hack-Codes"> <img src="https://img.shields.io/github/languages/count/aritrakrbasu/Hacktoberfest-2022-Hack-Codes">
  
 <br><br>
 <p align="center">
