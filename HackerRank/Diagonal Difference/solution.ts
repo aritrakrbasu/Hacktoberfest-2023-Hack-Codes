@@ -1,3 +1,6 @@
+//    Author        : Matheus Costa (mathocosta)
+//    Question Link : https://www.hackerrank.com/challenges/diagonal-difference/problem
+
 'use strict';
 
 import { WriteStream, createWriteStream } from "fs";
