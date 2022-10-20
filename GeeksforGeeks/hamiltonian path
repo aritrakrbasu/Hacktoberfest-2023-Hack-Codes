@@ -1,0 +1,28 @@
+class Solution
+{
+   public:
+   bool func(int i,vector<forward_list<int>> &adj,vector<int> &vis){
+       vis[i]++;int f=0;
+       for(auto j:adj[i]){
+           if(vis[j]) continue;
+           f++;
+           if(func(j,adj,vis)) return true;
+       }
+       if(!f){
+           for(int k=1;k<adj.size();k++) if(!vis[k]) return --vis[i];
+           return true;
+       }
+       return --vis[i];
+   }
+   bool check(int N,int M,vector<vector<int>> Edges)
+   {
+       vector<forward_list<int>> adj(N+1);
+       for(auto i:Edges){
+           adj[i[0]].push_front(i[1]);
+           adj[i[1]].push_front(i[0]);
+       }
+       vector<int> vis(N+1,0);
+       for(int i=1;i<=N;i++) if(func(i,adj,vis)) return true;
+       return false;
+   }
+};
