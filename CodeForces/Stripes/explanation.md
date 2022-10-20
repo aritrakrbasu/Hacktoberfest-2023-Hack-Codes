@@ -1,0 +1,1 @@
+Iterate over the grid matrix and check for "R" count is 8 or not,means if Red strip painted last so the must be one strip with 8 cell contiguously filled. If not then "B" will be the answer

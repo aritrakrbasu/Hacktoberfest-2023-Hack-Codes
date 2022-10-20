@@ -1,0 +1,1 @@
+First take all the array element in a set and then check if the size of the set is equal to size of array or not, by means we are checking the all the elements are distinct or not

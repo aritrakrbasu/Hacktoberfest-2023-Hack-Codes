@@ -1,0 +1,3 @@
+Here it is...
+1. First of all calculate the maximum prefix sum of the given array
+2. Then for each number in second array (query) do binary search in the array for the value in each query/array.
