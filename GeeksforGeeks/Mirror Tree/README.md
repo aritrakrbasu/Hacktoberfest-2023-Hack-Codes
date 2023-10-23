@@ -7,31 +7,32 @@ Given a binary tree, convert it into its mirror tree. The mirror tree of a binar
 ### Example 1:
 
 **Input:**
-    1
-   / \
-  3   2
+1
+/ \
+ 3 2
 
 **Output:**
-    1
-   / \
-  2   3
+1
+/ \
+ 2 3
 
 ### Example 2:
 
 **Input:**
-    10
-   /  \
-  20   30
- /  \
-40   60
+10
+/ \
+ 20 30
+/ \
+40 60
 
 **Output:**
 
     10
-   /  \
-  30   20
-       / \
-      60  40
+
+/ \
+ 30 20
+/ \
+ 60 40
 
 ## Your Task
 
@@ -76,3 +77,4 @@ root->left = new Node(3);
 root->right = new Node(2);
 Solution ob;
 ob.mirror(root);
+```

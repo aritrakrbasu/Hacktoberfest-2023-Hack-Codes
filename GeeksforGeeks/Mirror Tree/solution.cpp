@@ -1,12 +1,14 @@
 #include <iostream>
 
-class Node {
+class Node
+{
 public:
     int data;
-    Node* left;
-    Node* right;
+    Node *left;
+    Node *right;
 
-    Node(int value) {
+    Node(int value)
+    {
         data = value;
         left = nullptr;
         right = nullptr;
@@ -14,13 +16,15 @@ public:
 };
 
 // Helper function to convert the binary tree to its mirror image
-Node* mirror(Node* root) {
-    if (!root) {
+Node *mirror(Node *root)
+{
+    if (!root)
+    {
         return nullptr;
     }
 
     // Recursively swap the left and right subtrees
-    Node* temp = root->left;
+    Node *temp = root->left;
     root->left = mirror(root->right);
     root->right = mirror(temp);
 
@@ -28,17 +32,20 @@ Node* mirror(Node* root) {
 }
 
 // Helper function to perform in-order traversal and print the tree
-void inorder(Node* root) {
-    if (root) {
+void inorder(Node *root)
+{
+    if (root)
+    {
         inorder(root->left);
         std::cout << root->data << " ";
         inorder(root->right);
     }
 }
 
-int main() {
+int main()
+{
     // Create the binary tree
-    Node* root = new Node(1);
+    Node *root = new Node(1);
     root->left = new Node(2);
     root->right = new Node(3);
 
